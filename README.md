@@ -9,7 +9,7 @@ This container can be installed as [BIBBOX APP](http://bibbox.readthedocs.io/en/
 
 To install the app locally execute the commands:
 
-`sudo git clone https://github.com/bibbox/app-seeddmsTNG`
+`sudo git clone https://github.com/jcmendoza1985/mygithubrepo.git`
 
 `cd app-seeddmsTNG`
 
